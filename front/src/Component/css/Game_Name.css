@@ -1,0 +1,55 @@
+@media (min-width: 228px)
+{
+    .gridT
+    {
+        width : 300px;
+      
+        }
+        
+    
+    }
+    
+    
+    @media (min-width: 1228px)
+{
+    .gridT
+    {
+        width : 600px;
+      
+        }
+        
+    
+    }
+    .txtBox
+        {
+            border: 1px solid;
+            padding: 5px;
+            box-shadow: 2px 2px 2px 2px #888888;
+        }
+        .btnClass
+        {
+            border: 1px solid;
+            padding: 5px; /* box-shadow: 2px 2px 2px 2px #888888;*/
+            font-weight: bold;
+            background-color: #03a1a4;
+            height: 40px;
+            box-shadow: 0 0 5px 3px #c7c6c1;
+            color: White;
+            font-size: medium;
+        }
+        .Ctablee
+        {margin-right:185px;
+        }
+        .Ctablee tr th
+        {
+        }
+        .Ctablee td
+        {
+            padding-left: 150px;
+            margin-left: 10px;
+        }
+        .tdd
+        {
+            padding-right: 150px;
+            margin-left: 10px;
+        }
